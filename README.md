@@ -1,3 +1,3 @@
 # Hi, I'm naoki 👋
 
-I’m a developer in Japan. I build browser extensions and macOS tools, and I contribute to Angular.
+I’m a developer based in Japan. I love cats 🐈 and Angular, and I contribute to Angular. I also run [site-ql](https://site-ql.com).
