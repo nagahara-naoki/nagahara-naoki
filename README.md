@@ -2,8 +2,10 @@
 
 I'm a developer based in Japan 🇯🇵
 
-- Cat lover 🐈
 - Angular contributor
 - Creator of [site-ql](https://site-ql.com)
+- Cat lover 🐈
 
-[![Angular Contributor](https://img.shields.io/badge/Angular-Contributor-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/angular/angular)
+<a href="https://github.com/angular/angular">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="80" alt="Angular" />
+</a>
